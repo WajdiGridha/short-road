@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Short Road</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="key_main">AIzaSyCTN3we7lszdsULFsUZKunGpwXTXCQYFag</string>
+    <string name="driving">Driving</string>
+    <string name="walking">Walking</string>
+    <string name="bicycling">Bicycling</string>
+    <string name="transport">Transport</string>
+
+</resources>
